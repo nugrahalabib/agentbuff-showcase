@@ -344,13 +344,15 @@ Idle trial agents are put to sleep and woken from a queue that protects server m
 - Hundreds of end-to-end proof scripts and guard checks cover purchases, MCP and rollout.
 - Skills and agents reinstall themselves from the database after a container rebuild.
 
----
-
-<sub>Built by [Nugraha Labib Mujaddid](https://github.com/nugrahalabib). This page describes a private codebase; questions about the product or a demo are welcome at [nugrahalabib@gmail.com](mailto:nugrahalabib@gmail.com).</sub>
-
 ## Related
 
 - [Kasir POS](https://github.com/nugrahalabib/agentbuff-pos-showcase)
 - [KostCloud](https://github.com/nugrahalabib/agentbuff-kostcloud-showcase)
+- [Buff Your Money](https://github.com/nugrahalabib/agentbuff-bym-showcase)
 - [AI Co-Founder](https://github.com/nugrahalabib/AgentBuff-Co-Founder)
 - [All my work on GitHub](https://github.com/nugrahalabib)
+
+---
+
+<sub>Built by [Nugraha Labib Mujaddid](https://github.com/nugrahalabib). This page describes a private codebase; questions about the product or a demo are welcome at [nugrahalabib@gmail.com](mailto:nugrahalabib@gmail.com).</sub>
+
